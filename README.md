@@ -9,7 +9,7 @@
 程度はプリンタの精度にも依存するので適宜調整してください。
 
 二つのモデルを組み合わせて仕様します。<br>
-<img width="300" alt="part" src="expImgs/IMG_1344.jpg"><br>
+<img width="450" alt="part" src="expImgs/IMG_1344.jpg"><br>
 <img width="450" alt="part" src="expImgs/assmbl.gif"><br>
 
 trackball cup for Elecom Deft Pro.
