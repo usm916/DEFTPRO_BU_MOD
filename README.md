@@ -12,6 +12,7 @@
 プリンタの精度にも依存するので適宜調整してください。<br>
 <br>
 ４つのモデルを組み合わせて使用します。<br>
+<img width="450" alt="part" src="expImgs/DEFTPRO_MBS10.png"><br>
 <img width="450" alt="part" src="expImgs/IMG_1344.jpg"><br>
 <img width="450" alt="part" src="expImgs/assmbl.gif"><br>
 
